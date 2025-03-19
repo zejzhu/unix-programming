@@ -1,2 +1,5 @@
 #include stdio.h
-printf("Hello Birt\n")
+int main(int argc, char *argv[]){
+    printf("hi earth\n");
+    return 0;
+}
